@@ -1,1 +1,1 @@
-<video src="https://youtu.be/9VqLR6aqUYg" />
+<img src="https://youtu.be/9VqLR6aqUYg" />
